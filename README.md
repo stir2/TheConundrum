@@ -24,5 +24,6 @@ Ben,
 Eleazar,
 Gideon,
 Jonathan,
-
 Mr. Murphy
+
+Created by Stirling Gould
